@@ -82,8 +82,8 @@ setup(
         "tensorboard",
         "rapidfuzz",
         "Polygon3",
-        "shapely",
-        "scikit-image",
+        #"shapely",
+        #"scikit-image",
         "editdistance"
     ],
     extras_require={"all": ["psutil"]},
